@@ -16,4 +16,8 @@ public class Sample {
 
 	}
 
+	private void sample_Four() {
+		System.out.println("Sample_Four");
+
+	}
 }
